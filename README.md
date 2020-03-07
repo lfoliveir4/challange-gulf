@@ -26,7 +26,7 @@ Desenvolver as paginas, baseando-se no layout a seguir, consumindo o arquivo ser
 
 - Organização de código.
 - Lógica de codigo. 
-- Uso do Git
+- Uso do Git.
 - Organização de Reutilização de componentes. 
 
 ## Diferenciais 
