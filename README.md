@@ -41,5 +41,7 @@ Desenvolver as paginas, baseando-se no layout a seguir, consumindo o arquivo ser
 
 The challenge has no time limit.
 
-#### Obrigado pela leitura e não deixe de finalizar o teste. Boa sorte!
+#### Obrigado pela leitura e não deixe de finalizar o teste. 
+
+## Boa sorte !
 
