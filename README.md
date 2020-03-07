@@ -24,18 +24,18 @@ Desenvolver as paginas, baseando-se no layout a seguir, consumindo o arquivo ser
 
 ## Avaliações 
 
-- - Organização de código.
-- - Lógica de codigo. 
-- - Uso do Git
-- - Organização de Reutilização de componentes. 
+- Organização de código.
+- Lógica de codigo. 
+- Uso do Git
+- Organização de Reutilização de componentes. 
 
 ## Diferenciais 
 
-- - Uso de gerenciamento de estado. 
-- - Uso de novas API's do React. 
-- - CSS in JS. 
+- Uso de gerenciamento de estado. 
+- Uso de novas API's do React. 
+- CSS in JS. 
 
-#### 5. Está com dúvidas? Pergunte, não tenha medo :D
+#### Está com dúvidas? Pergunte, não tenha medo :D
 
 The challenge has no time limit.
 
