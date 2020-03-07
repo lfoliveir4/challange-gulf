@@ -7,9 +7,9 @@ Estamos procurando desenvolvedores apaxionados que desejam construir um futuro c
 Nós oferecemos:
 - Bons salários
 - Nossa cultura é atraente e focada em: 
-- - Propriedade e Orientação
-- - Desenvolvimento de Software
-- - Crescimento Pesosoal
+- - Propriedade e Orientação.
+- - Desenvolvimento de Software.
+- - Crescimento Pesosoal.
 - Trabalho presencial com sede na Vila Olimpia. 
 
 
@@ -21,6 +21,8 @@ Crie uma aplicação React (web)
 #### Teste Prático
 
 Desenvolver as paginas, baseando-se no layout a seguir, consumindo o arquivo server.json que já está disponibilizado neste repositório.
+
+#### Layout: https://xd.adobe.com/view/8554e303-49d6-447f-4046-7b8a27f0fa89-f365/
 
 ## Avaliações 
 
